@@ -9,7 +9,7 @@ Matrícula SIAPE: `1572628`
 Unidade de Exercício no Ibama: `NUFIS-MT`  
 Telefone: `65 984489123`  
 E-mail: `nelson.laturner@ibama.gov.br`  
-O servidor exerce cargo em comissão ou/e substituição? (` `) SIM (`x`) NÃO  
+ 
 
 ## 2 – Formação Escolar ou Acadêmica:
 - Licenciatura Plena em Ciências Biológicas pela UFMT, em 1992
@@ -31,7 +31,18 @@ O servidor exerce cargo em comissão ou/e substituição? (` `) SIM (`x`) NÃO
 - Diversas outras atividades como instrutor, gerente executivo de projetos, análise técnica, coordenação de equipes, entre outros.
 
 ## 4 - Cursos Complementares:
-- Diversos cursos relacionados a sensoriamento remoto, geoprocessamento, manejo de áreas protegidas, fiscalização ambiental, entre outros, realizados entre 1995 e 2021.
+-Big Data & Analytics 60 horas pelo Faculdade de Informática e Administração Paulista (FIAP NANO) 2023
+- Tecnologia da INformação e Comunicação 14 horas pelo SENAI MT 2021
+-Fundamentos de Inteligência Artificial 12 horas pela Data Science Academy 2023
+-Iniciando com Python Gis 10,5 horas pela UDEMT 2022
+-Webinar SecureWAtch: gerenciamento de ativos e detecção de mudanças com dados de sensoriamento remoto 1 hora pela Mundo GEO 2021
+-Introdução ao Python com QGIS 43 horas pela UDEMY 2022
+-INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL 30 horas pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS 2023
+-Curso Ambiente Cibernético: comportamento e investigação de infrações ambientais 30 horas pelo IBAMA 2023
+-FUNDAMENTOS DE LÓGICA DE PROGRAMAÇÃO 15 horas pela Fundação Bradesco
+-  "Formação em Cibersegurança" 80 horas pelo  Nivelamento do programa Hackers do Bem 2024
+
+- Diversos cursos relacionados a sensoriamento remoto, geoprocessamento, manejo de áreas protegidas, fiscalização ambiental, inteligência artificial, programação entre outros, realizados entre 1995 e 2024.
 
 ## 5 – Publicações:
 - "Macrófitas aquáticas do sistema de Baías Chacororé – Sinhá Mariana, Pantanal de Barão de Melgaço –Mato Grosso" apresentado no VI Congresso de Ecologia do Brasil, Fortaleza, 2003.
